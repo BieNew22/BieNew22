@@ -1,16 +1,29 @@
 ## Hi there 👋
+<br>
 
-<!--
-**BieNew22/BieNew22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💼 Career**
 
-Here are some ideas to get you started:
+```diff
+2020.03 ~         | 경기대학교 컴퓨터공학부
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🎯 Project**
+
+```diff
+
+```
+
+## **🛠️ Tech Stack**
+<!-- language-->
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<br>
+
+<!-- Framework-->
+![Spring](https://img.shields.io/badge/Spring-ED8B00?style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+<br>
+
+<!-- Database -->
+
