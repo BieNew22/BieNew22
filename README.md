@@ -4,13 +4,15 @@
 **💼 Career**
 
 ```diff
-2020.03 ~         | 경기대학교 컴퓨터공학부
+2020.03.00 ~             | 경기대학교 컴퓨터공학부
 ```
 
 **🎯 Project**
 
 ```diff
-
+2024.10.10 ~             | Solved-Box (Display your BaekJoon Rank with solved.ac)
++ Tech Used : Github Actions, Python3
++ API  Used : GitHub REST API, solvedac API
 ```
 
 ## **🛠️ Tech Stack**
