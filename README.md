@@ -16,6 +16,7 @@
 
 2025.01.01 ~             | marvel snap deck tracker
 + Tech Used : Java, JavaFX
++ Data from : Card Image and data (https://snap.untapped.gg/)
 ```
 
 ## **🛠️ Tech Stack**
